@@ -1,1 +1,1 @@
-# example-contracts
+# Solidity to DCR translator
